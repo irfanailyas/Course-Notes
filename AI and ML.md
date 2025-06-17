@@ -20,4 +20,17 @@ The types of ML models:-
 HISTORY OF ML:-
 We talk about machine learning a lot asa technology that has gained steam in the last ten years,but machine learning has existed since the 1940s.It was in 1943 that the first neural network usingan electric circuit was developed by Warren McCulloch and Walter Pitts.The goal of the problem was to try and solve communication between computers.So how could computers communicate with one another?In 1950, Alan Turing proposed something that's known as the Turing Test.This is a test of artificial intelligence that involves figuring out whethera machine can act like a human,or if humans can't tell the difference between a human and machine,given answers to questions.Humans pose questions to machines and receive answers,and they try to figure out whether it's a machine answering themor a human being.Doesn't matter if the answers are true or false,the idea is to figure out whether humans can tell the difference.In 1952, Arthur Samuel, who's considered a pioneer in machine learning,is credited with creating the first computer programto play championship-level checkers.In 1957, Frank Rosenblatt, who was a psychologist, developed the Perceptron.This can be thought of as the first neural network unit and algorithm,and you can trace a direct line from the neural networks of todayto the perceptron, first created in 1957.The goal of the perceptron was to learn from data by adjusting its parameters until it reached an optimal solution.
 Back in the 50s there were symbolic andasymbolic systems.
-1.SYMBOLIC AI:-
+1.SYMBOLIC AI:- It focused on processing symbols and concepts rather than numeric data. These are knowledge-based systems. Also known as classical AI nad relies on manipulation of symbols and use of explicit rules for problem solving.
+2.SUBSYMBOLIC AI:- Information is processed numerically using calculations using simple interconnected neurons or units rather than symbols and explicit rules. 
+SUBSYMBOLIC AI is what we use today.
+
+SUPERVISED LEARNING TECHNIQUES:-
+These involve the use of labelled data for traing and testing i.e, the data contains both x variables and y variables. Thenjob is to learn the relationship between x variables and y variables and make predictions on the unseen data. These solves the problems of the form y=f(x). The objective of the model is prediction. One of the limiting factor while using SL is the limited availability of labelled data.
+eg:-Regression,classification,sentiment analysis.
+
+UNSUPERVISED LEARNING TECHNIQUES:-
+These are used when the labelled data is not available. These are models in such a way to learn from the x variables or features and learn from the data itself. Here the model seeks to find intrinsic patterns in the data instead of relationship between x and y. Also most of the data available are unlabelled data, so it is easy to work with and can produce powerful models.
+eg:-Clustering
+
+REGRESSION:-
+It is a SL technique that needs labelled data to train the model and predicts continous values. It is used often in cause-effect analysis. 
