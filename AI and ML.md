@@ -41,3 +41,8 @@ A good model minimizes the distance between the fitted line and the original dat
 Differences between the observed values and the predicted values of the best model are small and ubiased.
 
 CLASSIFICATION:-
+It isa SL technique that requires labelled data. If there are two output categories, it is called binary classification problem. The predciction of a classfiication problem is a discrete or categorical variable. It there are more than 2 possible classifications then it is multi-class classification.  Every output category has a probability score and the one which has the highest score will be the prediction. Evaluating lassification model:-
+1.Accuracy(fraction of correct predictions made). A model with high accuracy need not be a good model .
+2.Precision(Fraction of positive identifications that the model was correct.
+3.Recall.
+4.Confusion matrix.
