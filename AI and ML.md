@@ -34,3 +34,10 @@ eg:-Clustering
 
 REGRESSION:-
 It is a SL technique that needs labelled data to train the model and predicts continous values. It is used often in cause-effect analysis. 
+eg:-House price prediction, given hours of study predict the gpa of student.
+A curve or a line in your data is a good fit if the distances of the points in your data from the curve is minimized. If you have lowest distances from the curve that you are using to model the data then it is a good fit. An overfitting curve(a curve that touches alll points in your data) reduces predictive accuracy of your model, it is useless.
+1.Linear regression finds the best fit of line in your data(i.e, the line that is as close as possible to the data points). The best fit line can be evaluated or the model can be measured it's best line of fit using the R-squared metric. It will be high for best fit else low, also its value is generally expressed between 1 and 0 or as percentage. It is also referred to as coefficient of determination or coefficient of multiple determination in multiple regression.
+A good model minimizes the distance between the fitted line and the original data points.
+Differences between the observed values and the predicted values of the best model are small and ubiased.
+
+CLASSIFICATION:-
