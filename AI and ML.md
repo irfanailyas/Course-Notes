@@ -46,3 +46,15 @@ It isa SL technique that requires labelled data. If there are two output categor
 2.Precision(Fraction of positive identifications that the model was correct.
 3.Recall.
 4.Confusion matrix.
+
+CLUSTERING:-
+It is a ML techniques and most commonly and widely used  USL technique, i.e, the data will not have any associated target values or labels. It is used to find the logical groupings in the data. We take all the data points and represent them in the n-dimensional space and then find the logical clusters that exist among these groups. Data points that are similar will be grouped together or nearby in space. 
+1.Elbow method:-Finding the optimal number of clusters in a dataset.
+2.Silhouette score:-A measure of how similar an object is to its own cluster compared to other clusters.
+
+
+TRADITIONAL ML MODELS:-
+These use a fundamental algorithmic structure to solve a given problem. It can be anything like fitting a line and using it to make predictions. It requires extraction of data, preprocess the data and then train the model and use it for prediction of raw data.
+
+LINEAR REGRESSION:-
+
