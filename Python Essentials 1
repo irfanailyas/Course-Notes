@@ -1,0 +1,12 @@
+LANGUAGES:-
+It is a tools or means of expressing and recording thoughts. Computer has its own understandable set of instructions or commands called machine language. A complete set of known commands is called an instruction list, sometimes abbreviated as IL. The languages created and used by humans and still evolving and changing and it is called natural languages. 
+Each language consists of the following elements:- 
+1. ALPHABET:- A set of symbols used to built a certain language.
+2. LEXIS:- A set of words the language offers its users.
+3. SYNTAX:- A set of rules used to determine if a string of words forms a valid sentence.
+4. SEMANTICS:- A set of rules determining if a certain phrase makes sense.
+
+MACHINE LANGUAGE vs HIGH LEVEL LANGUAGE:-
+High-level languages are languages that are atleast somewhat similar to natural ones which uses symbols, words and conventions readable to humans. A program written in high-level language is called source code and file which contains it is called source file.
+
+COMPILATION vs INTERPRETATION:-
