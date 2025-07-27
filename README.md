@@ -1,2 +1,2 @@
-# Infosys-Springboard-Courses
-Short notes on the courses I took from Infosys Springboard
+# SHORT NOTE FOR COURSES
+
