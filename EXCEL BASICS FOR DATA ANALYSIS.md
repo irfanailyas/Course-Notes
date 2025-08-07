@@ -28,6 +28,7 @@
 - Format, filter and sort data.
 - Easily edit, undo and error-check.
 - Create charts, graphs and reports.
+- Easily inspect data which is clearly liable.
 
 # DATA ANALYSTS USES SPREADSHEETS FOR:-
 - Collecting data
@@ -80,4 +81,8 @@ Edit the active cell and put the cursor at the end of the cell’s contents	F2
 Enter the current time	Ctrl+Shift+colon (:)
 Enter the current date	Ctrl+semi-colon (;)
 
-   
+SPREADSHEETS DISADVANTAGES:-
+- It may crash at times and you may have to start or build from the beginning.
+- It cannot be used for large analysis, only for small analysis.
+- It is impossible to know about the whole functions available.
+- It have less flexibility for complicated analysis and presentation and also difficult to handle large datasets.
