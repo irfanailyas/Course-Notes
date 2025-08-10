@@ -10,3 +10,15 @@ MACHINE LANGUAGE vs HIGH LEVEL LANGUAGE:-
 High-level languages are languages that are atleast somewhat similar to natural ones which uses symbols, words and conventions readable to humans. A program written in high-level language is called source code and file which contains it is called source file.
 
 COMPILATION vs INTERPRETATION:-
+
+- Inorder to open terminal in VS CODE click CTRL+` (The one under ESC key).
+- To run a python file in windows click, python3 filename.py.
+- LINTING:- Analyzing our code for potential errors. Popular linter is pylint. 
+- FORMATTING:- autopep8 extension can be installed. You can enable formatOnSave option for formatting the whole code on save.
+- IMPLEMENTATIONS in python:- 
+ 1. Jython (Java)
+ 2. pypy (Subset of python)
+ 3. IronPython (C#)
+ 4. CPython (C)
+- Boolean values in python should always start with capital letters True or False.
+- In slicing [0:3] means it will include 0,1,2 and only : will give the whole word.
