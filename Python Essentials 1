@@ -21,4 +21,61 @@ COMPILATION vs INTERPRETATION:-
  3. IronPython (C#)
  4. CPython (C)
 - Boolean values in python should always start with capital letters True or False.
+
+STRING:-
 - In slicing [0:3] means it will include 0,1,2 and only : will give the whole word.
+- For printing double quotes alongwith the string, we can make use of the escape character called \. For eg:-
+ course = "Python \"Programming"
+ print(course)
+OUTPUT = Python "Programming
+
+ESCAPE CHARACTERS:-
+# COMMENTS
+\" For printing double quotes too
+\' For printing single quote too
+\\ For printing a single slash 
+\n Newline
+
+FORMATTED STRINGS:- Almost like concatenation. It is just like an expression that is evaluated at runtime. In this we can put any expression but between the curly braces.
+first = "AYSHATH"
+last = "IRFANA"
+full = f"{first} {last}"
+print(full)
+OUTPUT = AYSHATH IRFANA
+
+FUNCTIONS IN STRINGS:-
+- len()  upper()  lower()  
+- title() will capitalize every first letter.
+- find() will give the last letter index of the given word from the value.
+- rstrip() will clear the white space from the sentence.
+- replace("p","j") will replace all p's with j's.
+- print("value" in var_name) will return boolean value like true if the value is present in the variable.
+- ord("b") will give the ASCII value of b 98.
+NUMBERS:-
+- Complex numbers like a+bi in python are represented as a+bj.
+- Whole numbers.
+- Decimal numbers.
+- 10/3 will give decimal numbers and 10//3 will give integer numbers.
+ + - * / // % **
+FUNCTIONS:-
+round() abs() 
+For number related functions we can import a math module available in Python. It is an object and we can call and use the available functions in them.
+import math
+math.ceil()
+TYPE CONVERSION:- type()
+
+COMPARISON OPERATORS:- >< <= > >= == !=
+CONDITIONAL STATEMENTS:-
+if(condition):
+elif(condition):
+else:
+TERNARY OPERATOR:-
+age = 12
+message = "Eligible" if age>=18 else "Not eligible"
+print(message)
+LOGICAL OPERATORS:- and or not 
+LOOPS:-
+for i in range(3):
+ statements
+
+ 
