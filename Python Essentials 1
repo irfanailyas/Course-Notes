@@ -21,6 +21,7 @@ COMPILATION vs INTERPRETATION:-
  3. IronPython (C#)
  4. CPython (C)
 - Boolean values in python should always start with capital letters True or False.
+- A ll functions in Python return None when no value is specified.
 
 STRING:-
 - In slicing [0:3] means it will include 0,1,2 and only : will give the whole word.
@@ -77,5 +78,6 @@ LOGICAL OPERATORS:- and or not
 LOOPS:-
 for i in range(3):
  statements
+
 
  
