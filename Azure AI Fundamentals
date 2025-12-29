@@ -25,6 +25,45 @@ eg:- Decision trees, Neural Networks, SVM and so on.
 2. EVALUATION:- It is checking how well the model is doing. It has information like recall, precision, probability, squared errors and so on.
 3. OPTIMIZATION:- It is all about algos or machines helping data achieve higher number of accuracy.
 
+TYPES OF DATASTES:-
+1. TRAINING DATASETS:- Used for learning puproses to help build the model and training model.
+2. VALIDATION DATASETS:- Used to fine tune paramters of a learning algorithm.
+3. TEST DATASETS:- Used for checking the actual performance of a fully build model.
 
+DATA INGESTION:-
+It is about receiving or importing data into data storage such as databases or data store. Data can be ingetsed as streams or batches into the storage also automated processes can be used to ingets data.
 
+DATA PREPARATION:-
+1. DATA COLLECTION
+2. EXPLORING DATA FOR OUTLIERS OR ANY INCONSISTENCIES.
+3. FORMATTING DATA
+4. ENHANCING DATA QUALITY
+5. FEATURE ENGINEERING
+6. SPLITTING DATA INTO TRAINING AND EVALUATION SETS
 
+TECHNIQUES OF ML:-
+1. SUPERVISED LEARNING
+2. UNSUPERVISED LEARNING
+3. SEMI SUPERVISED LEARNING
+4. REINFORCEMENT LEARNING
+
+LABELLED DATA:- Classification
+Used and predicted by SL.
+UNLABELLED DATA:- Pattern detection, Clustering
+Used by USL, SSL.
+
+ACCURACY AND QUALITY:-
+Accuracy measures for a single quantity whilw Quality measures for the enitre dataset's accuracy.
+
+FEATURES IN DATA:-
+These are the individual charecteristics or measurable quantities of an entity of a dataset.
+They can be of any values like numeric, string or graph values.
+Some of the Feature Selection Algorithms are:-
+1. FILTER METHODS:- This filters the data by not caring any of the measures or the type of algorithm the data is gonna be used for. This is good to use.
+2. WRAPPER METHODS:- This determines which set of features to keep by using Greedy machine learning algorithms. That finds the best set of features that gives the best model outputs.
+3. HYBRID METHODS:- This chooses features from a combination of both the above methods and then figures out the best features from that like the Wrapper method.
+4. EMBEDDED METHOD:- It does the feature selection while the model training is actually happening. This is usually preffered as it is fast, accurate and much less prone to overfitting.
+5. ADVANCED METHODS:- GENETIC ALGO, PERMUTATION IMPORTANCE, DEEP LEARNING APPROACHES.
+
+FEATURE SELECTION TECHNIQUES:-
+1. 
